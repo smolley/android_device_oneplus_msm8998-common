@@ -381,8 +381,6 @@ PRODUCT_PACKAGES += \
     telephony-ext
 
 PRODUCT_BOOT_JARS += \
-    qcnvitems \
-    qcrilhook \
     telephony-ext
 
 # Seccomp policy
